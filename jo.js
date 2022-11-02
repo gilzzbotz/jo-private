@@ -481,11 +481,11 @@ const lori ={
 "itemCount": 2025,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"orderTitle": "FIXED BY THE JO BOT CASE MD",
-"message":"😈⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
+"orderTitle": "FIXED BY GILZZ BOT CASE MD",
+"message":"😈⏤͟͟͞GILZZ 𝑩𝑶𝑻𝒁",
 "sellerJid": "5491133536405@s.whatsapp.net",
 "token": "AR57p+dSS4yeh4tAQCMyt51dvXpHlgliVN1/6Au+XBE3+w==",//Kode ini jangan di ubh sedikit pun 
-"totalAmount1000": "IDR 99.99999999999999999999",
+"totalAmount1000": "IDR 99.999999999999999999999",
 "totalCurrencyCode": "IDR",
 "contextInfo": {
 "forwardingScore": 150,
@@ -1081,7 +1081,7 @@ INFO: ${q ? q : 'kosong'}
  ╭━═════════════━• 
  │➳ @${mem.id.split('@')[0]}
  ╰━═════════════━•
- •━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
+ •━══〘GILZZ BOT〙══━• `
  }
  jobotz.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id),
 contextInfo: {
@@ -3333,7 +3333,7 @@ break
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞GILZZ 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
@@ -3936,15 +3936,15 @@ break
 
 © ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/a04d5b880230a36b6d328.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞GILZZ BOTZ`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
 "sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
-"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
+"thumbnailUrl": `https://telegra.ph/file/a04d5b880230a36b6d328.jpg`
 }}, caption: anu })
 }
 break
